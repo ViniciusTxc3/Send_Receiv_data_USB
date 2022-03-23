@@ -1,0 +1,1 @@
+Software em python para enviar e receber comandos via USB para iniciar, abrir e fechar a prótese BeBionic através do microcontrolador.
